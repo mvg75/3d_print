@@ -1,0 +1,15 @@
+; ====================
+; Поддержите выход новых калибраторов, инструкций и видео!
+; Пожертвование из РФ: https://donate.stream/dmitrysorkin
+; Пожертвование из-за рубежа: https://www.donationalerts.com/r/dsorkin
+; ====================
+; Segment:10 K-Factor:0.2
+; Segment:9 K-Factor:0.178
+; Segment:8 K-Factor:0.156
+; Segment:7 K-Factor:0.133
+; Segment:6 K-Factor:0.111
+; Segment:5 K-Factor:0.089
+; Segment:4 K-Factor:0.067
+; Segment:3 K-Factor:0.044
+; Segment:2 K-Factor:0.022
+; Segment:1 K-Factor:0
